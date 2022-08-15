@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+.container {
+  flex: auto;
+  align-items: center;
+  margin-top: 10px;
+}
